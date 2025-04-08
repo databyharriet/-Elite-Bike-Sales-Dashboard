@@ -1,4 +1,4 @@
-# -Elite-Bike-Sales-Dashboard
+
 # Elite Bike Sales Dashboard
 
 Welcome to my Excel Dashboard project for Elite Bike Store (EBS)! This project was created as part of a data analytics task to help the fictional Elite Bike Store make data-driven decisions by uncovering insights from customer and sales data.
